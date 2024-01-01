@@ -1,2 +1,2 @@
-SELECT empno, ename, sal 
+SELECT empno, ename, sal
 FROM emp;
